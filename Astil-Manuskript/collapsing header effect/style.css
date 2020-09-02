@@ -1,0 +1,31 @@
+}
+
+body {
+    text-align:   center;
+}
+
+header {
+    height: 100px;
+    background: #dbdbdb;
+    width: 100%;
+    z-index: 10;
+    position: fixed;
+}
+
+#banner {
+      width: 800px;
+      height:  168px;
+      position: fixed;
+      top: 100px;
+      background-size: cover;
+      background: url(bild.JFIF);
+}
+
+
+#content {
+    width: 100%;
+    position: relative;
+    top: 400px;
+    background: #ebebeb;
+    height: 1500px;
+}
